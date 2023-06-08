@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "imie": "Jan",
+    "nazwisko": "Kowalski",
+    "wiek": 30,
+    "adres": {
+      "ulica": "Główna",
+      "miasto": "Warszawa"
+    },
+    "zainteresowania": ["programowanie", "podróże", "muzyka"]
+  }
